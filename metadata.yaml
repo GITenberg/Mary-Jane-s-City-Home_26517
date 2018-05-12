@@ -1,0 +1,33 @@
+_repo: Mary-Jane-s-City-Home_26517
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gooch, Thelma
+    gutenberg_agent_id: '32061'
+    url: http://www.gutenberg.org/2009/agents/32061
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Judson, Clara Ingram
+    birthdate: 1879
+    deathdate: 1960
+    gutenberg_agent_id: '2917'
+    url: http://www.gutenberg.org/2009/agents/2917
+description: ''
+gutenberg_issued: '2008-09-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '26517'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Chicago (Ill.) -- Juvenile fiction'
+- !lcsh 'Family life -- Juvenile fiction'
+- !lcc 'PZ'
+title: Mary Jane's City Home
+url: http://www.gutenberg.org/ebooks/26517

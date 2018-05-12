@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '2917'
     url: http://www.gutenberg.org/2009/agents/2917
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26517#Mary-Jane-s-City-Home
 gutenberg_issued: '2008-09-03'
 gutenberg_type: Text
 identifiers:
